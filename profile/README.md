@@ -1,30 +1,45 @@
 # Aftstream
 
-> **Ship every release without the scramble.**
+**Ship every release without the scramble.**
 
-Aftstream builds secure, automated CI/CD pipelines and cloud infrastructure for startups, ensuring code transitions from commit to production safely and predictably every time.
+Aftstream builds secure, automated CI/CD pipelines and cloud infrastructure for startups, so code goes from commit to production safely and the same way every time.
 
----
-
-###  What We Do
-
-*  **CI/CD Pipelines:** Automated build, test, and release workflows using GitHub Actions, GitLab CI, and Jenkins.
-*  **Cloud & Infrastructure as Code:** Zero-downtime rollouts and repeatable infrastructure built with AWS, Kubernetes, Terraform, and Ansible.
-*  **DevSecOps & Pipeline Security:** Automated static analysis, secret scanning, dependency scanning, and container vulnerability gates.
-*  **Observability & Alerting:** Production metrics, dashboards, and automated alerts powered by Prometheus and Grafana.
+[Website](https://aftstream.com) | [Contact](mailto:support@aftstream.com) | [LinkedIn](https://linkedin.com/company/aftstream)
 
 ---
 
-### Reference Architectures & Repositories
+## What we do
 
-Explore our open reference projects to see our approach to pipeline design, automated security gating, and GitOps delivery:
-*  [zero-downtime-gitops](https://github.com/muhammad-ahmadd-shafiq/zero-downtime-gitops) – GitOps delivery to Kubernetes using GitHub Actions, ArgoCD, k3s, and Grafana monitoring.
-*  [devsecops-jenkins-pipeline](https://github.com/muhammad-ahmadd-shafiq/devsecops-jenkins-pipeline) – Security-gated Jenkins pipeline incorporating Gitleaks, Trivy, Cosign, and OWASP ZAP.
-*  [aws-infrastructure-automation-platform](https://github.com/muhammad-ahmadd-shafiq/aws-infrastructure-automation-platform) – Infrastructure-as-code deployment pipeline using Terraform, Ansible, and AWS.
+| Service | What you get | Tools |
+|---|---|---|
+| **CI/CD pipelines** | Automated build, test and release workflows | GitHub Actions, GitLab CI, Jenkins |
+| **Cloud and infrastructure as code** | Repeatable infrastructure and zero-downtime rollouts | AWS, Kubernetes, Terraform, Ansible |
+| **Security in the pipeline** | Risky releases blocked automatically, with clear reports | Code, dependency and container scans |
+| **Monitoring and alerts** | Metrics, dashboards and alerts that catch problems early | Prometheus, Grafana |
 
 ---
 
-###  Work With Us
+## Reference projects
 
-*  **Website:** [aftstream.com](https://aftstream.com)
-*  **Direct Contact:** [hello@aftstream.com](mailto:hello@aftstream.com)
+Open projects that show our approach, from pipeline design to security checks.
+
+| Project | Description |
+|---|---|
+| [zero-downtime-gitops](https://github.com/Aftstream/zero-downtime-gitops) | GitOps delivery to Kubernetes with GitHub Actions, ArgoCD, k3s, Prometheus and Grafana |
+| [devsecops-jenkins-pipeline](https://github.com/Aftstream/devsecops-jenkins-pipeline) | Security-gated Jenkins pipeline using Gitleaks, Trivy, Cosign and OWASP ZAP |
+| [aws-infrastructure-automation-platform](https://github.com/Aftstream/aws-infrastructure-automation-platform) | Terraform and Ansible pipeline that plans and applies AWS changes with remote state |
+
+---
+
+## How we work
+
+- Fixed scope and price
+- Weekly progress updates
+- Everything built in your accounts and repositories, with no lock-in
+- Documentation and a walkthrough at handover
+
+---
+
+## Get in touch
+
+Book a free call at [aftstream.com](https://aftstream.com) or email [support@aftstream.com](mailto:support@aftstream.com).

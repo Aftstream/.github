@@ -26,5 +26,5 @@ Explore our open reference projects to see our approach to pipeline design, auto
 
 ###  Work With Us
 
-* 🌐 **Website:** [aftstream.com](https://aftstream.com)
-* 📧 **Direct Contact:** [hello@aftstream.com](mailto:hello@aftstream.com)
+*  **Website:** [aftstream.com](https://aftstream.com)
+*  **Direct Contact:** [hello@aftstream.com](mailto:hello@aftstream.com)
